@@ -1,2 +1,1 @@
- i am new user for IDE
- modifiedA
+ i am new user for IDEA
